@@ -1,0 +1,12 @@
+{
+   "css.validate": false,
+   "less.validate": false,
+   "scss.validate": false,
+   "scss.lint.unknownAtRules": "ignore",
+   "eslint.validate": [
+     "javascript",
+     "javascriptreact",
+     "vue"
+   ],
+   "css.customData": [".vscode/css_custom_data.json"]
+ }
