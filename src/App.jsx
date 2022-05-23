@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 
 const App = () => {
-   return <div className="maman">maman racing</div>;
+   return <div className="p-4 py-2 pt-2"></div>;
 };
-
-const Counter = () => {};
 
 export default App;
